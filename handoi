@@ -1,0 +1,6 @@
+getgenv().ScriptTitle = "handoi"
+getgenv().ScriptSubTitle = "prenium"
+getgenv().ScriptImage = "https://i.ibb.co/jv5nV39R/images.jpg"
+getgenv().ScriptAuthorName = "TUANANHSUPPOR"
+getgenv().ScriptAuthorSubTitle = "@tuananhdz999"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
