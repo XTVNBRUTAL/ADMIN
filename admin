@@ -1,0 +1,6 @@
+getgenv().ScriptTitle = "TTA HUD"
+getgenv().ScriptSubTitle = "Premium"
+getgenv().ScriptImage = "https://i.ibb.co/N6XnHGjc/pngtree-surreal-moonlit-panorama-pc-wallpaper-image-16148136.jpg"
+getgenv().ScriptAuthorName = "TUANANHSUPPOR"
+getgenv().ScriptAuthorSubTitle = "@tuananhdz999"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
